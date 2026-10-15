@@ -17,3 +17,4 @@ Before reporting, record at least two issues you found in the CSV and what you r
 
 ## What the pipeline does
 Complete after the lab: In one sentence, describe how the data moves from the source to a useful output.
+the data now is ubderstood in another way, that we can know what the row means, what data is missing and how to make it a useful source, as knowing there is one duolicate and one missing value, therse info makes the output we want to produce much better and accurate
